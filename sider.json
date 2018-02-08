@@ -1,0 +1,16 @@
+{
+    "ROM": {
+        "cb368ec23bcf7d79bab2232158d0e1818": {
+            "uda936836a9869eb86ec8ab992a4e8979": "uda936836a9869eb86ec8ab992a4e8979"
+        }
+    }, 
+    "readMember": {
+        "cb368ec23bcf7d79bab2232158d0e1818": "uda936836a9869eb86ec8ab992a4e8979\n\u2560-> \udbc0\udf02\udbc0\udd74Rozzy\udbff\udfff\udbc0\udf02\udbc0\udd74\udbff\udfff\udbc0\udf02\udbc0\udd74\udbff\udfff"
+    }, 
+    "readPoint": {
+        "cb368ec23bcf7d79bab2232158d0e1818": "7438513021451"
+    }, 
+    "setTime": {
+        "cb368ec23bcf7d79bab2232158d0e1818": "23:44:33"
+    }
+}
